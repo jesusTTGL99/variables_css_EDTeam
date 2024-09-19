@@ -1,0 +1,10 @@
+:root{
+	--color: tomato;
+	--font-size: 2em;
+}
+
+h1{
+	color: var(--color);
+	font-size: var(--font-size);
+	text-align: center;
+}

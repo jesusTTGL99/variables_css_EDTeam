@@ -1,0 +1,15 @@
+:root{
+	--main-color: yellow;
+}
+
+p{
+	color: var(--color);
+}
+
+article{
+	--color: red;
+}
+
+section{
+	--color: green;
+}

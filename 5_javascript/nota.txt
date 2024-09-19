@@ -1,0 +1,21 @@
+getComputedStyle(elemento)
+
+	Obtiene los estilos computados de un elemento.
+	
+	elemento = document.documentElement
+
+.setProperty(name, vale, priority)
+
+	Agrega o cambia el valor de una propiedad o variable css.
+
+.getPropertyValue(name)
+
+	Obtiene el valor de una ropiedad o variable css.
+
+.getPropertyPriority(name)
+
+	Devuelve "important" si tiene prioridad.
+
+.removeProperty(name)
+
+	Elimina una propiedad o variable CSS de un elemento.

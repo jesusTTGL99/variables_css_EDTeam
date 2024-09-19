@@ -1,0 +1,17 @@
+CSS
+
+	1. No se puede declarar sin un selector.
+	2. Tiene scope de DOM.
+	3. Las operaciones son con "calc()".
+	4. No pueden ser interpoladas.
+	5. Se puede redifinir.
+	6. Existe en el DOM.
+
+SASS
+
+	1. Se puede declarar sin un selector.
+	2. Tiene scope de bloque.
+	3. Las operaciones son "aritmeticas".
+	4. Pueden ser interpoladas.
+	5 No se pueden redifinir.
+	6. No existe despues de la compilacion.

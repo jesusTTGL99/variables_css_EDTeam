@@ -1,0 +1,8 @@
+Definicion:
+
+	Es un espacio de memorio que almacena un valor y ese valor puede ser recuperado.
+
+Propiedades:
+
+	Herencia.
+	Casacada.

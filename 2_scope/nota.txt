@@ -1,0 +1,5 @@
+Scope:
+
+	Es el ambito en donde una variable existe, en la cual peude recuperar  valor, fuera de ese scope, esa variable no existe.
+	
+	Tiene scope de DOM
